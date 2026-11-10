@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5D320DEF-4700-4D73-A0D5-7DB3946AA059}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ContentDrawer",
+			"Enabled": true
+		}
+	]
+}
